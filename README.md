@@ -72,44 +72,48 @@ the-hindu-news-scraper/
 
 ---
 
-▶️ How to Run the Project
+▶️ How to Run the Project  
+
 1️⃣ Clone the repository
+
 git clone <>
 
 ---
 
 2️⃣ Install required libraries
+
 ---> pip install selenium
 
 ---
 
 3️⃣ Run the script
+
 ---> python csv_extract.py
 
 ---
 
 📌 Requirements
 
-Python 3.x
-Google Chrome browser
-ChromeDriver (matching Chrome version)
-Selenium library
+* Python 3.x
+* Google Chrome browser
+* ChromeDriver (matching Chrome version)
+* Selenium library
 
 ---
 
 🎯 Learning Outcomes
 
-Hands-on experience with real-world web scraping
-Learned to extract text and attributes using XPath
-Learned CSV file handling in Python
-Improved understanding of Selenium automation workflow
-Understood dynamic website scraping challenges
+* Hands-on experience with real-world web scraping
+* Learned to extract text and attributes using XPath
+* Learned CSV file handling in Python
+* Improved understanding of Selenium automation workflow
+* Understood dynamic website scraping challenges
 
 ---
 
 👨‍💻 Author
 
-Ashish Modak
-Selenium Automation Learner | Python Programmer | C/C++ DSA Enthusiast
+* Ashish Modak
+* Selenium Automation Learner | Python Programmer | C/C++ DSA Enthusiast
 
 ---
