@@ -118,3 +118,7 @@ git clone https://github.com/ashish-modak-22/csv_file_extraction.git
 * Selenium Automation Learner | Python Programmer | C/C++ DSA Enthusiast
 
 ---
+
+Important Modification: An explicit wait can be done for the webdriver as per certain conditions for a smooth scrapping.
+
+---
